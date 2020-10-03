@@ -1,0 +1,67 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#fondo{
+  background: rgba(252, 249, 249, 0.384);
+}
+
+.navbar{
+    height: 80px;
+}
+
+
+h1{
+  text-align: center;
+  padding-top: 20px;
+  margin-bottom: 20px;
+}
+
+    .img{
+    width: 650px;
+    padding: 20px;
+    
+  }
+
+  #carouselExampleInterval{
+    text-align: center;
+    margin: auto;
+    width: 900px;
+    height: 480px;
+    margin-bottom: 10px;
+
+  }
+
+  .footer{
+    text-align: center;
+    height: 50px;
+    color: white;
+    padding-top: 8px;
+    
+  }
+
+  .rounded {
+    padding-top: 30px;
+  }
+ 
+  hr{
+    margin: auto;
+    width: 300px;
+    padding-bottom: 5px;
+  }
+
+  .col{
+    text-align: center;
+    padding-top: 50px;
+    
+    
+  }
+   
+   .col h5:hover{
+    padding-top: 5px;
+    cursor: pointer;
+    color: rgb(32, 32, 253);
+
+
+  }
